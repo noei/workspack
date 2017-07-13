@@ -1,0 +1,6 @@
+Try to run the app.js file using Node.
+npm init
+npm install express --save
+node app.js
+
+npm install bootstrap --save
